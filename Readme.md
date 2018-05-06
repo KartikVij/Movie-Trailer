@@ -8,13 +8,13 @@
 
 **To run the project we need to follow these steps:**
 
-1 Unzip the file.
-2 Now list will be get displayed.
-3 Go to the entertainment file and right click on the file.
-4 Now click on the Edit with IDLE.
-5 A python file will get displayed.
-6 Now go to the run option and click on Run Module.
-7 The webbrowser page will open and display the lsit of Trailers. 
+1.  Unzip the file.
+2.  Now list will be get displayed.
+3.  Go to the entertainment file and right click on the file.
+4.  Now click on the Edit with IDLE.
+5.  A python file will get displayed.
+6.  Now go to the run option and click on Run Module.
+7.  The webbrowser page will open and display the lsit of Trailers. 
 
 **Description:**
 
@@ -24,9 +24,9 @@ In this readme file, I explain in detail how our website; fresh_tomatoes.py func
 **We started off with a plan:**
 
 
-1 Go to the website
-2 See all of the movies displayed
-3 Click on one to play its trailer
+1.  Go to the website
+2.  See all of the movies displayed
+3.  Click on one to play its trailer
 
 **Class structure**
 
@@ -34,7 +34,7 @@ In this readme file, I explain in detail how our website; fresh_tomatoes.py func
 We will need classes to build this movie website. We want our Movie class to be a template for a generic movie, and then create instances of that class like this:
 ironm= Movie() 
 and add details to each specific movie. So, we first need to come up with a list of properties that we think every movie should have:
-1.	title
+1.  title
 2.	trailer
 3.	storyline
 4.	poster_image
@@ -96,8 +96,10 @@ ironm.show_trailer()
 The web browser should open with the trailer playing!
 Creating the Movie Website
 We used this file called fresh_tomatoes.py in our own entertainment code. Let's create a list of movies that we are going to use:
+
 import fresh_tomatoes
 
 movies = [ironm, hulk, thor, captain, avengers, blackp]
+
 fresh_tomatoes.open_movies_page(movies)
 
