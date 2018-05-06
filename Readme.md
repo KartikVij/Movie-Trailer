@@ -1,6 +1,9 @@
 TITLE : MOVIE TRAILER
+
 PYTHON VERSION : Python 2.7
+
 PROJECT : A python file generating a movie website
+
 CODE CHECKER: PEP8
 
 Now to run the project we need to follow these steps:
