@@ -1,4 +1,4 @@
-**This project is done with an aim to learn the new-edge technology of web development. The content of the project is from Udacity's Front End Nanodegree-1**
+**This project is done with an aim to learn the new-edge technology of web development. The content of the project is from Udacity's Full Stack Nanodegree-1**
 
 **TITLE :** MOVIE TRAILER
 
